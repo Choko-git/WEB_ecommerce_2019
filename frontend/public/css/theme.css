@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    display: inline-block;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: lightskyblue;
+    z-index: 1;
+}
+
+ul.menu {
+    display: inline;
+    background-color: lightskyblue;
+    padding: 0;
+}
+
+header ul li,
+header ul,
+header a
+{
+    margin: 0;
+    display: inline-block;
+}
+
+header a,
+header ul li a
+{
+    padding: 1em;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active
+{
+    text-decoration: none;
+    color: black;
+}
+
+header a.logo {
+    background-color: blue;
+    color: white;
+}
+
+.left {
+    left: 0;
+}
+
+.right {
+    float: right;
+}
+
+ul.menu li:last-child {
+    float: right;
+    position: relative;
+    right: 0;
+    top: 0;
+}
+
+ul.menu li:hover {
+    background-color: rgb(73, 73, 255);
+}

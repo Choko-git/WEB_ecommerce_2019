@@ -1,0 +1,15 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+list:
+    path: /list
+    controller: App\Controller\DefaultController::index
+
+article:
+    path: /article/{id_article}
+    controller: App\Controller\DefaultController::article
+
+pannier:
+    path: /pannier
+    controller: App\Controller\DefaultController::pannier
