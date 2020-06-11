@@ -1,2 +1,10 @@
 # WEB_ecommerce_2019
-Site de vente en ligne - Cf. 'E_commerce.docx'
+
+Projet Epitech réalisé en 2019-2020
+
+Documentation du projet dans 'E_commerce.docx'
+
+----------------------------------------------
+Projet : WEB
+Techno : Angular/JS
+
