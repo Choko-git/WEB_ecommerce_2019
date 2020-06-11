@@ -8,6 +8,6 @@ Documentation du projet dans 'E_commerce.docx'
 Projet : WEB
 
 Techno :
-        FrontENd : Angular/JS
+        FrontEnd : Angular/JS
         BackEnd : Symfony
 
