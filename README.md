@@ -6,5 +6,8 @@ Documentation du projet dans 'E_commerce.docx'
 
 ----------------------------------------------
 Projet : WEB
-Techno : Angular/JS
+
+Techno :
+        FrontENd : Angular/JS
+        BackEnd : Symfony
 
